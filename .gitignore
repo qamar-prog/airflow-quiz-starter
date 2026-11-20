@@ -1,0 +1,7 @@
+.env
+.DS_Store
+airflow_settings.yaml
+__pycache__/
+*.py[cod]
+astro
+logs/
